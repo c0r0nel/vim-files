@@ -1,0 +1,13 @@
+h1. Usage
+
+In your home directory, run:
+<pre><code>
+git clone git://github.com/c0r0nel/vim-files.git .vim
+ln -s vim-files .vim
+
+</code></pre>
+
+In order to get this working, put this line in your ~/.vimrc
+<pre><code>
+source ~/.vim/vimrc
+</code></pre>
