@@ -95,7 +95,7 @@ map! <D-8> <C-O>:tabn 8<CR>
 map! <D-9> <C-O>:tabn 9<CR>
 
 map <F6> :!!<CR>
-
+let g:ragtag_global_maps = 1
 set foldmethod=indent   "fold based on indent
 set foldnestmax=10      "deepest fold is 10 levels
 set nofoldenable        "dont fold by default
