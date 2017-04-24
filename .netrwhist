@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/coronel/.ssh'
+let g:netrw_dirhist_2='/home/coronel/Workspace/DEVIGET/garoop/app/controllers/users'
+let g:netrw_dirhist_3='/home/coronel/.rvm/gems/ruby-1.9.3-p194@buycheap317/gems'
+let g:netrw_dirhist_4='/home/coronel/.ssh'
